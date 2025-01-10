@@ -43,7 +43,7 @@ body{
 
 .right-icon {
     position: relative;
-    right: 95px;
+    right: 80px;
 }
 
 span.right-icon > * {
