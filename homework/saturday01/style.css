@@ -1,0 +1,35 @@
+body{
+    margin:0px;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    color:white;
+}
+nav{
+    height:80px;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+main{
+    height: 969px;
+    background-color: rgb(41,65,171);
+}
+
+footer{
+    height:530px;
+    background-color:black;
+}
+
+a {
+    columns: white;
+    text-decoration:none;
+}
+a:hover{
+    color: #1ed760;
+}
+
+.nav-item {
+    padding: 28px 17px;
+    font-weight: 700;
+}
